@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif?cid=ecf05e47og5gveki8cee3qo5gfocdjh6gc1tgw407pczjfup&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180"/>
 </div>
 <div id="header" align="center">
-   <a href="www.linkedin.com/in/syvtsova-anastasiia-402060223">
+   <a href="https://www.linkedin.com/in/syvtsova-anastasiia-402060223">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
